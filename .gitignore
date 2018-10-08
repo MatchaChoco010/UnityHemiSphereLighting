@@ -1,3 +1,5 @@
+### https://raw.github.com/github/gitignore/72190ee30bd1e2ccc233222341435adacb7a6500/Unity.gitignore
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -34,3 +36,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+Logs/
+.vscode/
